@@ -18,10 +18,12 @@ An elegant Python desktop application to explore covariance, correlation, and vi
 
 ## 📦 Requirements
 
-Make sure Python 3.x is installed, then run:
+Ensure you have **Python 3.x** installed, then run:
 
 ```bash
 pip install customtkinter pandas matplotlib seaborn
+```
+
 ---
 
 ## ▶️ How to Run
